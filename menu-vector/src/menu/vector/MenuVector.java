@@ -1,6 +1,6 @@
 package menu.vector;
 
-import java.util.Random;
+import java.util.Scanner;
 
 public class MenuVector {
 
@@ -9,7 +9,9 @@ public class MenuVector {
         int[] A ;
         int[] B ;
         int[] C ;
-        a = new int[5];       
+        a = new int[5]; 
+        
+        
         }
     }
     
