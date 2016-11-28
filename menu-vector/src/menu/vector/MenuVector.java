@@ -10,6 +10,7 @@ public class MenuVector {
         int[] B ;
         int[] C ;
         a = new int[5]; 
+        for (i=0; i<=9; i++) {
         
         
         }
