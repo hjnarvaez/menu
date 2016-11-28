@@ -9,7 +9,7 @@ public class RANDOMICO {
         int[] A ;
         int[] B ;
         int[] C ;
-        int[] a = new int[];
+        int[] A = new int[];
         }
     }
     
