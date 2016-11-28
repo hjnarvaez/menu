@@ -1,8 +1,8 @@
-package menu.vector;
+package randomico;
 
 import java.util.Random;
 
-public class MenuVector {
+public class RANDOMICO {
 
     public static void main(String[] args) {
         int[] A ;
